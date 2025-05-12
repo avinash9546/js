@@ -1,0 +1,7 @@
+let a=4
+var f=''
+for(let i=0;i<a;i++){
+    f+=Math.floor(Math.random()*10)
+}
+console.log(f)
+
